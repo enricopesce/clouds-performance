@@ -1,0 +1,217 @@
+[
+    {
+        "version": "v2024-01-01",
+        "time": "20240208-172818",
+        "os": {
+            "arch": "x64",
+            "distro": "Oracle Linux Server 8.9",
+            "kernel": "5.15.0-202.135.2.el8uek.x86_64",
+            "uptime": 138.60,
+            "vm": "KVM"
+        },
+        "net": {
+            "ipv4": true,
+            "ipv6": false
+        },
+        "cpu": {
+            "model": "Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz",
+            "cores": 2,
+            "freq": "2993.072 MHz",
+            "aes": true,
+            "virt": true
+        },
+        "mem": {
+            "ram": 16075904,
+            "ram_units": "KiB",
+            "swap": 4194300,
+            "swap_units": "KiB",
+            "disk": 48793654,
+            "disk_units": "KB"
+        },
+        "geekbench": [
+            {
+                "version": 6,
+                "single": 1674,
+                "multi": 1942,
+                "url": "https://browser.geekbench.com/v6/cpu/4822440"
+            }
+        ],
+        "runtime": {
+            "start": 1707413298,
+            "end": 1707413758,
+            "elapsed": 460
+        }
+    },
+    {
+        "version": "v2024-01-01",
+        "time": "20240208-172900",
+        "os": {
+            "arch": "aarch64",
+            "distro": "Oracle Linux Server 8.9",
+            "kernel": "5.15.0-202.135.2.el8uek.aarch64",
+            "uptime": 171.14,
+            "vm": "KVM"
+        },
+        "net": {
+            "ipv4": true,
+            "ipv6": false
+        },
+        "cpu": {
+            "model": "Neoverse-N1 BIOS virt-4.2",
+            "cores": 2,
+            "freq": "??? MHz",
+            "aes": true,
+            "virt": false
+        },
+        "mem": {
+            "ram": 15287200,
+            "ram_units": "KiB",
+            "swap": 4194300,
+            "swap_units": "KiB",
+            "disk": 48525094,
+            "disk_units": "KB"
+        },
+        "geekbench": [
+            {
+                "version": 6,
+                "single": 1140,
+                "multi": 2078,
+                "url": "https://browser.geekbench.com/v6/cpu/4822457"
+            }
+        ],
+        "runtime": {
+            "start": 1707413340,
+            "end": 1707413833,
+            "elapsed": 493
+        }
+    },
+    {
+        "version": "v2024-01-01",
+        "time": "20240208-172829",
+        "os": {
+            "arch": "x64",
+            "distro": "Oracle Linux Server 8.9",
+            "kernel": "5.15.0-202.135.2.el8uek.x86_64",
+            "uptime": 147.79,
+            "vm": "KVM"
+        },
+        "net": {
+            "ipv4": true,
+            "ipv6": false
+        },
+        "cpu": {
+            "model": "AMD EPYC 7J13 64-Core Processor",
+            "cores": 2,
+            "freq": "2445.404 MHz",
+            "aes": true,
+            "virt": true
+        },
+        "mem": {
+            "ram": 16077928,
+            "ram_units": "KiB",
+            "swap": 4194300,
+            "swap_units": "KiB",
+            "disk": 48793654,
+            "disk_units": "KB"
+        },
+        "geekbench": [
+            {
+                "version": 6,
+                "single": 1509,
+                "multi": 1906,
+                "url": "https://browser.geekbench.com/v6/cpu/4822446"
+            }
+        ],
+        "runtime": {
+            "start": 1707413309,
+            "end": 1707413784,
+            "elapsed": 475
+        }
+    },
+    {
+        "version": "v2024-01-01",
+        "time": "20240208-172757",
+        "os": {
+            "arch": "x64",
+            "distro": "Oracle Linux Server 8.9",
+            "kernel": "5.15.0-202.135.2.el8uek.x86_64",
+            "uptime": 119.60,
+            "vm": "KVM"
+        },
+        "net": {
+            "ipv4": true,
+            "ipv6": false
+        },
+        "cpu": {
+            "model": "AMD EPYC 9J14 96-Core Processor",
+            "cores": 2,
+            "freq": "2596.100 MHz",
+            "aes": true,
+            "virt": true
+        },
+        "mem": {
+            "ram": 16075904,
+            "ram_units": "KiB",
+            "swap": 4194300,
+            "swap_units": "KiB",
+            "disk": 48793654,
+            "disk_units": "KB"
+        },
+        "geekbench": [
+            {
+                "version": 6,
+                "single": 2031,
+                "multi": 2584,
+                "url": "https://browser.geekbench.com/v6/cpu/4822421"
+            }
+        ],
+        "runtime": {
+            "start": 1707413277,
+            "end": 1707413676,
+            "elapsed": 399
+        }
+    },
+    {
+        "version": "v2024-01-01",
+        "time": "20240208-172826",
+        "os": {
+            "arch": "x64",
+            "distro": "Oracle Linux Server 8.9",
+            "kernel": "5.15.0-202.135.2.el8uek.x86_64",
+            "uptime": 147.71,
+            "vm": "KVM"
+        },
+        "net": {
+            "ipv4": true,
+            "ipv6": false
+        },
+        "cpu": {
+            "model": "Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz",
+            "cores": 2,
+            "freq": "2593.862 MHz",
+            "aes": true,
+            "virt": true
+        },
+        "mem": {
+            "ram": 16075912,
+            "ram_units": "KiB",
+            "swap": 4194300,
+            "swap_units": "KiB",
+            "disk": 48793654,
+            "disk_units": "KB"
+        },
+        "geekbench": [
+            {
+                "version": 6,
+                "single": 1531,
+                "multi": 1788,
+                "url": "https://browser.geekbench.com/v6/cpu/4822449"
+            }
+        ],
+        "runtime": {
+            "start": 1707413306,
+            "end": 1707413789,
+            "elapsed": 483
+        }
+    }
+]
